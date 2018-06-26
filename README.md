@@ -1,3 +1,3 @@
 # testrepo
 
-:wave: :earth_africa: 
+:wave: :earth_americas: 
